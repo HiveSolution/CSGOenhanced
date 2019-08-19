@@ -10,7 +10,6 @@
   "publishConfig": {
     "access": "restricted"
   },
-  "private": true,
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/HiveSolution/CSGOenhanced.git"
